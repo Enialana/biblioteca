@@ -17,3 +17,4 @@ application = get_wsgi_application()
 
 # Para despliegue en Vercel
 app = application
+
