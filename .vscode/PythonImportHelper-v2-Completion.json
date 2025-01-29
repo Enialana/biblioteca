@@ -1,0 +1,1994 @@
+[
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.functions.text",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.functions.text",
+        "description": "django.db.models.functions.text",
+        "detail": "django.db.models.functions.text",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "RenewBookForm",
+        "importPath": "catalog.forms",
+        "description": "catalog.forms",
+        "isExtraImport": true,
+        "detail": "catalog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RenewBookForm",
+        "importPath": "catalog.forms",
+        "description": "catalog.forms",
+        "isExtraImport": true,
+        "detail": "catalog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Author",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Author",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstance",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Book",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Language",
+        "importPath": "catalog.models",
+        "description": "catalog.models",
+        "isExtraImport": true,
+        "detail": "catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "django.contrib.contenttypes.models",
+        "description": "django.contrib.contenttypes.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.models",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueConstraint",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lower",
+        "importPath": "django.db.models.functions",
+        "description": "django.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "generic",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0001_initial",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Author',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=200)),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0002_auto_20160921_1401",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0002_auto_20160921_1401",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='book',\n            name='author',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='catalog.Author'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0002_auto_20160921_1401",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0003_auto_20160921_1420",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0003_auto_20160921_1420",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0002_auto_20160921_1401'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='book',\n            name='summary',\n            field=models.TextField(help_text='Enter a brief description of the book', max_length=200),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0003_auto_20160921_1420",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0004_auto_20160921_1422",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0004_auto_20160921_1422",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0003_auto_20160921_1420'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='book',\n            name='summary',\n            field=models.TextField(help_text='Enter a brief description of the book', max_length=1000),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0004_auto_20160921_1422",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0005_auto_20160921_1433",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0005_auto_20160921_1433",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0004_auto_20160921_1422'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='author',\n            name='name',\n        ),\n        migrations.AddField(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0005_auto_20160921_1433",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0006_auto_20160921_1439",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0006_auto_20160921_1439",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0005_auto_20160921_1433'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='author',\n            name='date_of_birth',\n            field=models.DateField(null=True, verbose_name='D.O.B'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0006_auto_20160921_1439",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0007_auto_20160921_1444",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0007_auto_20160921_1444",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0006_auto_20160921_1439'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='author',\n            name='date_of_birth',\n            field=models.DateField(blank=True, null=True, verbose_name='D.O.B'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0007_auto_20160921_1444",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0008_auto_20160921_1511",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0008_auto_20160921_1511",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0007_auto_20160921_1444'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BookInstance',\n            fields=[\n                ('id', models.UUIDField(default=uuid.uuid4, editable=False, help_text='Unique ID for this particular book across whole library', primary_key=True, serialize=False)),\n                ('summary', models.TextField(help_text='Enter a brief description of the book', max_length=1000)),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0008_auto_20160921_1511",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0009_remove_bookinstance_summary",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0009_remove_bookinstance_summary",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0008_auto_20160921_1511'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='bookinstance',\n            name='summary',\n        ),\n    ]",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0009_remove_bookinstance_summary",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0010_auto_20160921_1527",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0010_auto_20160921_1527",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0009_remove_bookinstance_summary'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='bookinstance',\n            name='book',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='Fishcakes instance+', to='catalog.Book'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0010_auto_20160921_1527",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0011_auto_20160922_1029",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0011_auto_20160922_1029",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0010_auto_20160921_1527'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='bookinstance',\n            options={'ordering': ['due_back']},\n        ),\n        migrations.AlterField(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0011_auto_20160922_1029",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0012_bookinstance_date_acquired",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0012_bookinstance_date_acquired",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0011_auto_20160922_1029'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='bookinstance',\n            name='date_acquired',\n            field=models.DateField(auto_now_add=True, default=django.utils.timezone.now),\n            preserve_default=False,",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0012_bookinstance_date_acquired",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0013_auto_20160926_1901",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0013_auto_20160926_1901",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0012_bookinstance_date_acquired'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='bookinstance',\n            name='date_acquired',\n            field=models.DateField(default=datetime.date.today),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0013_auto_20160926_1901",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0014_remove_bookinstance_date_acquired",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0014_remove_bookinstance_date_acquired",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0013_auto_20160926_1901'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='bookinstance',\n            name='date_acquired',\n        ),\n    ]",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0014_remove_bookinstance_date_acquired",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0015_auto_20160927_1808",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0015_auto_20160927_1808",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0014_remove_bookinstance_date_acquired'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='subject',\n            name='subject_name',\n        ),\n        migrations.AddField(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0015_auto_20160927_1808",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0016_auto_20160927_1947",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0016_auto_20160927_1947",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0015_auto_20160927_1808'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Genre',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(help_text='Enter a book genre (e.g. Science Fiction, French Poetry etc.)', max_length=200)),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0016_auto_20160927_1947",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0017_language",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0017_language",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0016_auto_20160927_1947'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Language',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(help_text=\"Enter a the book's natural language (e.g. English, French, Japanese etc.)\", max_length=200)),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0017_language",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0018_book_language",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0018_book_language",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0017_language'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='book',\n            name='language',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='catalog.Language'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0018_book_language",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0019_bookinstance_borrower",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0019_bookinstance_borrower",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('catalog', '0018_book_language'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='bookinstance',\n            name='borrower',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to=settings.AUTH_USER_MODEL),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0019_bookinstance_borrower",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0020_auto_20161012_1044",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0020_auto_20161012_1044",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0019_bookinstance_borrower'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='bookinstance',\n            options={'ordering': ['due_back'], 'permissions': (('can_mark_returned', 'Set book as returned'),)},\n        ),\n    ]",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0020_auto_20161012_1044",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0021_auto_20171229_1056",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0021_auto_20171229_1056",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0020_auto_20161012_1044'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='author',\n            name='date_of_death',\n            field=models.DateField(blank=True, null=True, verbose_name='died'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0021_auto_20171229_1056",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0022_auto_20181028_1731",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0022_auto_20181028_1731",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0021_auto_20171229_1056'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='author',\n            options={'ordering': ['last_name', 'first_name']},\n        ),\n        migrations.AlterField(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0022_auto_20181028_1731",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0023_auto_20201201_0238",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0023_auto_20201201_0238",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0022_auto_20181028_1731'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='book',\n            options={'ordering': ['title', 'author']},\n        ),\n        migrations.AlterField(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0023_auto_20201201_0238",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0024_auto_20210302_0630",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0024_auto_20210302_0630",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0023_auto_20201201_0238'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='bookinstance',\n            name='book',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.RESTRICT, to='catalog.book'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0024_auto_20210302_0630",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0025_auto_20220222_0623",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0025_auto_20220222_0623",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0024_auto_20210302_0630'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='author',\n            name='id',\n            field=models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0025_auto_20220222_0623",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0026_alter_book_author_alter_genre_name_and_more",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0026_alter_book_author_alter_genre_name_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0025_auto_20220222_0623'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='book',\n            name='author',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.RESTRICT, to='catalog.author'),\n        ),",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0026_alter_book_author_alter_genre_name_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.migrations.0027_genre_genre_name_case_insensitive_unique_and_more",
+        "description": "django-locallibrary-tutorial-main.catalog.migrations.0027_genre_genre_name_case_insensitive_unique_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('catalog', '0026_alter_book_author_alter_genre_name_and_more'),\n    ]\n    operations = [\n        migrations.AddConstraint(\n            model_name='genre',\n            constraint=models.UniqueConstraint(django.db.models.functions.text.Lower('name'), name='genre_name_case_insensitive_unique', violation_error_message='Genre already exists (case insensitive match)'),\n        ),\n        migrations.AddConstraint(",
+        "detail": "django-locallibrary-tutorial-main.catalog.migrations.0027_genre_genre_name_case_insensitive_unique_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "RenewBookFormTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_forms",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_forms",
+        "peekOfCode": "class RenewBookFormTest(TestCase):\n    def test_renew_form_date_in_past(self):\n        \"\"\"Test form is invalid if renewal_date is before today.\"\"\"\n        date = datetime.date.today() - datetime.timedelta(days=1)\n        form = RenewBookForm(data={'renewal_date': date})\n        self.assertFalse(form.is_valid())\n    def test_renew_form_date_too_far_in_future(self):\n        \"\"\"Test form is invalid if renewal_date more than 4 weeks from today.\"\"\"\n        date = datetime.date.today() + datetime.timedelta(weeks=4) + datetime.timedelta(days=1)\n        form = RenewBookForm(data={'renewal_date': date})",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorModelTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_models",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_models",
+        "peekOfCode": "class AuthorModelTest(TestCase):\n    @classmethod\n    def setUpTestData(cls):\n        \"\"\"Set up non-modified objects used by all test methods.\"\"\"\n        Author.objects.create(first_name='Big', last_name='Bob')\n    def test_first_name_label(self):\n        author = Author.objects.get(id=1)\n        field_label = author._meta.get_field('first_name').verbose_name\n        self.assertEqual(field_label, 'first name')\n    def test_last_name_label(self):",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorListViewTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "peekOfCode": "class AuthorListViewTest(TestCase):\n    @classmethod\n    def setUpTestData(cls):\n        # Create authors for pagination tests\n        number_of_authors = 13\n        for author_id in range(number_of_authors):\n            Author.objects.create(first_name='Christian {0}'.format(author_id),\n                                  last_name='Surname {0}'.format(author_id))\n    def test_view_url_exists_at_desired_location(self):\n        response = self.client.get('/catalog/authors/')",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanedBookInstancesByUserListViewTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "peekOfCode": "class LoanedBookInstancesByUserListViewTest(TestCase):\n    def setUp(self):\n        # Create two users\n        test_user1 = User.objects.create_user(\n            username='testuser1', password='1X<ISRUkw+tuK')\n        test_user2 = User.objects.create_user(\n            username='testuser2', password='2HJ1vRV0Z&3iD')\n        test_user1.save()\n        test_user2.save()\n        # Create a book",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "documentation": {}
+    },
+    {
+        "label": "RenewBookInstancesViewTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "peekOfCode": "class RenewBookInstancesViewTest(TestCase):\n    def setUp(self):\n        # Create a user\n        test_user1 = User.objects.create_user(\n            username='testuser1', password='1X<ISRUkw+tuK')\n        test_user1.save()\n        test_user2 = User.objects.create_user(\n            username='testuser2', password='2HJ1vRV0Z&3iD')\n        test_user2.save()\n        permission = Permission.objects.get(name='Set book as returned')",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorCreateViewTest",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "peekOfCode": "class AuthorCreateViewTest(TestCase):\n    \"\"\"Test case for the AuthorCreate view (Created as Challenge).\"\"\"\n    def setUp(self):\n        # Create a user\n        test_user1 = User.objects.create_user(\n            username='testuser1', password='1X<ISRUkw+tuK')\n        test_user2 = User.objects.create_user(\n            username='testuser2', password='2HJ1vRV0Z&3iD')\n        test_user1.save()\n        test_user2.save()",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "description": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "peekOfCode": "User = get_user_model()\nclass LoanedBookInstancesByUserListViewTest(TestCase):\n    def setUp(self):\n        # Create two users\n        test_user1 = User.objects.create_user(\n            username='testuser1', password='1X<ISRUkw+tuK')\n        test_user2 = User.objects.create_user(\n            username='testuser2', password='2HJ1vRV0Z&3iD')\n        test_user1.save()\n        test_user2.save()",
+        "detail": "django-locallibrary-tutorial-main.catalog.tests.test_views",
+        "documentation": {}
+    },
+    {
+        "label": "BooksInline",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.admin",
+        "description": "django-locallibrary-tutorial-main.catalog.admin",
+        "peekOfCode": "class BooksInline(admin.TabularInline):\n    \"\"\"Defines format of inline book insertion (used in AuthorAdmin)\"\"\"\n    model = Book\n@admin.register(Author)\nclass AuthorAdmin(admin.ModelAdmin):\n    \"\"\"Administration object for Author models.\n    Defines:\n     - fields to be displayed in list view (list_display)\n     - orders fields in detail view (fields),\n       grouping the date fields horizontally",
+        "detail": "django-locallibrary-tutorial-main.catalog.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorAdmin",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.admin",
+        "description": "django-locallibrary-tutorial-main.catalog.admin",
+        "peekOfCode": "class AuthorAdmin(admin.ModelAdmin):\n    \"\"\"Administration object for Author models.\n    Defines:\n     - fields to be displayed in list view (list_display)\n     - orders fields in detail view (fields),\n       grouping the date fields horizontally\n     - adds inline addition of books in author view (inlines)\n    \"\"\"\n    list_display = ('last_name',\n                    'first_name', 'date_of_birth', 'date_of_death')",
+        "detail": "django-locallibrary-tutorial-main.catalog.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BooksInstanceInline",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.admin",
+        "description": "django-locallibrary-tutorial-main.catalog.admin",
+        "peekOfCode": "class BooksInstanceInline(admin.TabularInline):\n    \"\"\"Defines format of inline book instance insertion (used in BookAdmin)\"\"\"\n    model = BookInstance\nclass BookAdmin(admin.ModelAdmin):\n    \"\"\"Administration object for Book models.\n    Defines:\n     - fields to be displayed in list view (list_display)\n     - adds inline addition of book instances in book view (inlines)\n    \"\"\"\n    list_display = ('title', 'author', 'display_genre')",
+        "detail": "django-locallibrary-tutorial-main.catalog.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BookAdmin",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.admin",
+        "description": "django-locallibrary-tutorial-main.catalog.admin",
+        "peekOfCode": "class BookAdmin(admin.ModelAdmin):\n    \"\"\"Administration object for Book models.\n    Defines:\n     - fields to be displayed in list view (list_display)\n     - adds inline addition of book instances in book view (inlines)\n    \"\"\"\n    list_display = ('title', 'author', 'display_genre')\n    inlines = [BooksInstanceInline]\nadmin.site.register(Book, BookAdmin)\n@admin.register(BookInstance)",
+        "detail": "django-locallibrary-tutorial-main.catalog.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceAdmin",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.admin",
+        "description": "django-locallibrary-tutorial-main.catalog.admin",
+        "peekOfCode": "class BookInstanceAdmin(admin.ModelAdmin):\n    \"\"\"Administration object for BookInstance models.\n    Defines:\n     - fields to be displayed in list view (list_display)\n     - filters that will be displayed in sidebar (list_filter)\n     - grouping of fields into sections (fieldsets)\n    \"\"\"\n    list_display = ('book', 'status', 'borrower', 'due_back', 'id')\n    list_filter = ('status', 'due_back')\n    fieldsets = (",
+        "detail": "django-locallibrary-tutorial-main.catalog.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogConfig",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.apps",
+        "description": "django-locallibrary-tutorial-main.catalog.apps",
+        "peekOfCode": "class CatalogConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'catalog'",
+        "detail": "django-locallibrary-tutorial-main.catalog.apps",
+        "documentation": {}
+    },
+    {
+        "label": "RenewBookForm",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.forms",
+        "description": "django-locallibrary-tutorial-main.catalog.forms",
+        "peekOfCode": "class RenewBookForm(forms.Form):\n    \"\"\"Form for a librarian to renew books.\"\"\"\n    renewal_date = forms.DateField(\n            help_text=\"Enter a date between now and 4 weeks (default 3).\")\n    def clean_renewal_date(self):\n        data = self.cleaned_data['renewal_date']\n        # Check date is not in past.\n        if data < datetime.date.today():\n            raise ValidationError(_('Invalid date - renewal in past'))\n        # Check date is in range librarian allowed to change (+4 weeks)",
+        "detail": "django-locallibrary-tutorial-main.catalog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.models",
+        "description": "django-locallibrary-tutorial-main.catalog.models",
+        "peekOfCode": "class Genre(models.Model):\n    \"\"\"Model representing a book genre (e.g. Science Fiction, Non Fiction).\"\"\"\n    name = models.CharField(\n        max_length=200,\n        unique=True,\n        help_text=\"Enter a book genre (e.g. Science Fiction, French Poetry etc.)\"\n    )\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"\n        return self.name",
+        "detail": "django-locallibrary-tutorial-main.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Language",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.models",
+        "description": "django-locallibrary-tutorial-main.catalog.models",
+        "peekOfCode": "class Language(models.Model):\n    \"\"\"Model representing a Language (e.g. English, French, Japanese, etc.)\"\"\"\n    name = models.CharField(max_length=200,\n                            unique=True,\n                            help_text=\"Enter the book's natural language (e.g. English, French, Japanese etc.)\")\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular language instance.\"\"\"\n        return reverse('language-detail', args=[str(self.id)])\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"",
+        "detail": "django-locallibrary-tutorial-main.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Book",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.models",
+        "description": "django-locallibrary-tutorial-main.catalog.models",
+        "peekOfCode": "class Book(models.Model):\n    \"\"\"Model representing a book (but not a specific copy of a book).\"\"\"\n    title = models.CharField(max_length=200)\n    author = models.ForeignKey('Author', on_delete=models.RESTRICT, null=True)\n    # Foreign Key used because book can only have one author, but authors can have multiple books.\n    # Author as a string rather than object because it hasn't been declared yet in file.\n    summary = models.TextField(\n        max_length=1000, help_text=\"Enter a brief description of the book\")\n    isbn = models.CharField('ISBN', max_length=13,\n                            unique=True,",
+        "detail": "django-locallibrary-tutorial-main.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstance",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.models",
+        "description": "django-locallibrary-tutorial-main.catalog.models",
+        "peekOfCode": "class BookInstance(models.Model):\n    \"\"\"Model representing a specific copy of a book (i.e. that can be borrowed from the library).\"\"\"\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4,\n                          help_text=\"Unique ID for this particular book across whole library\")\n    book = models.ForeignKey('Book', on_delete=models.RESTRICT, null=True)\n    imprint = models.CharField(max_length=200)\n    due_back = models.DateField(null=True, blank=True)\n    borrower = models.ForeignKey(\n        settings.AUTH_USER_MODEL, on_delete=models.SET_NULL, null=True, blank=True)\n    @property",
+        "detail": "django-locallibrary-tutorial-main.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Author",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.models",
+        "description": "django-locallibrary-tutorial-main.catalog.models",
+        "peekOfCode": "class Author(models.Model):\n    \"\"\"Model representing an author.\"\"\"\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    date_of_birth = models.DateField(null=True, blank=True)\n    date_of_death = models.DateField('died', null=True, blank=True)\n    class Meta:\n        ordering = ['last_name', 'first_name']\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular author instance.\"\"\"",
+        "detail": "django-locallibrary-tutorial-main.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.catalog.urls",
+        "description": "django-locallibrary-tutorial-main.catalog.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.index, name='index'),\n    path('books/', views.BookListView.as_view(), name='books'),\n    path('book/<int:pk>', views.BookDetailView.as_view(), name='book-detail'),\n    path('authors/', views.AuthorListView.as_view(), name='authors'),\n    path('author/<int:pk>',\n         views.AuthorDetailView.as_view(), name='author-detail'),\n]\nurlpatterns += [\n    path('mybooks/', views.LoanedBooksByUserListView.as_view(), name='my-borrowed'),",
+        "detail": "django-locallibrary-tutorial-main.catalog.urls",
+        "documentation": {}
+    },
+    {
+        "label": "BookListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookListView(generic.ListView):\n    \"\"\"Generic class-based view for a list of books.\"\"\"\n    model = Book\n    paginate_by = 10\nclass BookDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a book.\"\"\"\n    model = Book\nclass AuthorListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of authors.\"\"\"\n    model = Author",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookDetailView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a book.\"\"\"\n    model = Book\nclass AuthorListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of authors.\"\"\"\n    model = Author\n    paginate_by = 10\nclass AuthorDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for an author.\"\"\"\n    model = Author",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class AuthorListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of authors.\"\"\"\n    model = Author\n    paginate_by = 10\nclass AuthorDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for an author.\"\"\"\n    model = Author\nclass GenreDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Genre",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorDetailView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class AuthorDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for an author.\"\"\"\n    model = Author\nclass GenreDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Genre\nclass GenreListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Genre\n    paginate_by = 10",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenreDetailView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class GenreDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Genre\nclass GenreListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Genre\n    paginate_by = 10\nclass LanguageDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Language",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenreListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class GenreListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Genre\n    paginate_by = 10\nclass LanguageDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Language\nclass LanguageListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Language",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageDetailView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LanguageDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a genre.\"\"\"\n    model = Language\nclass LanguageListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Language\n    paginate_by = 10\nclass BookInstanceListView(generic.ListView):\n    \"\"\"Generic class-based view for a list of books.\"\"\"\n    model = BookInstance",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LanguageListView(generic.ListView):\n    \"\"\"Generic class-based list view for a list of genres.\"\"\"\n    model = Language\n    paginate_by = 10\nclass BookInstanceListView(generic.ListView):\n    \"\"\"Generic class-based view for a list of books.\"\"\"\n    model = BookInstance\n    paginate_by = 10\nclass BookInstanceDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a book.\"\"\"",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookInstanceListView(generic.ListView):\n    \"\"\"Generic class-based view for a list of books.\"\"\"\n    model = BookInstance\n    paginate_by = 10\nclass BookInstanceDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a book.\"\"\"\n    model = BookInstance\nfrom django.contrib.auth.mixins import LoginRequiredMixin\nclass LoanedBooksByUserListView(LoginRequiredMixin, generic.ListView):\n    \"\"\"Generic class-based view listing books on loan to current user.\"\"\"",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceDetailView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookInstanceDetailView(generic.DetailView):\n    \"\"\"Generic class-based detail view for a book.\"\"\"\n    model = BookInstance\nfrom django.contrib.auth.mixins import LoginRequiredMixin\nclass LoanedBooksByUserListView(LoginRequiredMixin, generic.ListView):\n    \"\"\"Generic class-based view listing books on loan to current user.\"\"\"\n    model = BookInstance\n    template_name = 'catalog/bookinstance_list_borrowed_user.html'\n    paginate_by = 10\n    def get_queryset(self):",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanedBooksByUserListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LoanedBooksByUserListView(LoginRequiredMixin, generic.ListView):\n    \"\"\"Generic class-based view listing books on loan to current user.\"\"\"\n    model = BookInstance\n    template_name = 'catalog/bookinstance_list_borrowed_user.html'\n    paginate_by = 10\n    def get_queryset(self):\n        return (\n            BookInstance.objects.filter(borrower=self.request.user)\n            .filter(status__exact='o')\n            .order_by('due_back')",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanedBooksAllListView",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LoanedBooksAllListView(PermissionRequiredMixin, generic.ListView):\n    \"\"\"Generic class-based view listing all books on loan. Only visible to users with can_mark_returned permission.\"\"\"\n    model = BookInstance\n    permission_required = 'catalog.can_mark_returned'\n    template_name = 'catalog/bookinstance_list_borrowed_all.html'\n    paginate_by = 10\n    def get_queryset(self):\n        return BookInstance.objects.filter(status__exact='o').order_by('due_back')\nfrom django.shortcuts import get_object_or_404\nfrom django.http import HttpResponseRedirect",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorCreate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class AuthorCreate(PermissionRequiredMixin, CreateView):\n    model = Author\n    fields = ['first_name', 'last_name', 'date_of_birth', 'date_of_death']\n    initial = {'date_of_death': '11/11/2023'}\n    permission_required = 'catalog.add_author'\nclass AuthorUpdate(PermissionRequiredMixin, UpdateView):\n    model = Author\n    # Not recommended (potential security issue if more fields added)\n    fields = '__all__'\n    permission_required = 'catalog.change_author'",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorUpdate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class AuthorUpdate(PermissionRequiredMixin, UpdateView):\n    model = Author\n    # Not recommended (potential security issue if more fields added)\n    fields = '__all__'\n    permission_required = 'catalog.change_author'\nclass AuthorDelete(PermissionRequiredMixin, DeleteView):\n    model = Author\n    success_url = reverse_lazy('authors')\n    permission_required = 'catalog.delete_author'\n    def form_valid(self, form):",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorDelete",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class AuthorDelete(PermissionRequiredMixin, DeleteView):\n    model = Author\n    success_url = reverse_lazy('authors')\n    permission_required = 'catalog.delete_author'\n    def form_valid(self, form):\n        try:\n            self.object.delete()\n            return HttpResponseRedirect(self.success_url)\n        except Exception as e:\n            return HttpResponseRedirect(",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookCreate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookCreate(PermissionRequiredMixin, CreateView):\n    model = Book\n    fields = ['title', 'author', 'summary', 'isbn', 'genre', 'language']\n    permission_required = 'catalog.add_book'\nclass BookUpdate(PermissionRequiredMixin, UpdateView):\n    model = Book\n    fields = ['title', 'author', 'summary', 'isbn', 'genre', 'language']\n    permission_required = 'catalog.change_book'\nclass BookDelete(PermissionRequiredMixin, DeleteView):\n    model = Book",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookUpdate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookUpdate(PermissionRequiredMixin, UpdateView):\n    model = Book\n    fields = ['title', 'author', 'summary', 'isbn', 'genre', 'language']\n    permission_required = 'catalog.change_book'\nclass BookDelete(PermissionRequiredMixin, DeleteView):\n    model = Book\n    success_url = reverse_lazy('books')\n    permission_required = 'catalog.delete_book'\n    def form_valid(self, form):\n        try:",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookDelete",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookDelete(PermissionRequiredMixin, DeleteView):\n    model = Book\n    success_url = reverse_lazy('books')\n    permission_required = 'catalog.delete_book'\n    def form_valid(self, form):\n        try:\n            self.object.delete()\n            return HttpResponseRedirect(self.success_url)\n        except Exception as e:\n            return HttpResponseRedirect(",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenreCreate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class GenreCreate(PermissionRequiredMixin, CreateView):\n    model = Genre\n    fields = ['name', ]\n    permission_required = 'catalog.add_genre'\nclass GenreUpdate(PermissionRequiredMixin, UpdateView):\n    model = Genre\n    fields = ['name', ]\n    permission_required = 'catalog.change_genre'\nclass GenreDelete(PermissionRequiredMixin, DeleteView):\n    model = Genre",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenreUpdate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class GenreUpdate(PermissionRequiredMixin, UpdateView):\n    model = Genre\n    fields = ['name', ]\n    permission_required = 'catalog.change_genre'\nclass GenreDelete(PermissionRequiredMixin, DeleteView):\n    model = Genre\n    success_url = reverse_lazy('genres')\n    permission_required = 'catalog.delete_genre'\nclass LanguageCreate(PermissionRequiredMixin, CreateView):\n    model = Language",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenreDelete",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class GenreDelete(PermissionRequiredMixin, DeleteView):\n    model = Genre\n    success_url = reverse_lazy('genres')\n    permission_required = 'catalog.delete_genre'\nclass LanguageCreate(PermissionRequiredMixin, CreateView):\n    model = Language\n    fields = ['name', ]\n    permission_required = 'catalog.add_language'\nclass LanguageUpdate(PermissionRequiredMixin, UpdateView):\n    model = Language",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageCreate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LanguageCreate(PermissionRequiredMixin, CreateView):\n    model = Language\n    fields = ['name', ]\n    permission_required = 'catalog.add_language'\nclass LanguageUpdate(PermissionRequiredMixin, UpdateView):\n    model = Language\n    fields = ['name', ]\n    permission_required = 'catalog.change_language'\nclass LanguageDelete(PermissionRequiredMixin, DeleteView):\n    model = Language",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageUpdate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LanguageUpdate(PermissionRequiredMixin, UpdateView):\n    model = Language\n    fields = ['name', ]\n    permission_required = 'catalog.change_language'\nclass LanguageDelete(PermissionRequiredMixin, DeleteView):\n    model = Language\n    success_url = reverse_lazy('languages')\n    permission_required = 'catalog.delete_language'\nclass BookInstanceCreate(PermissionRequiredMixin, CreateView):\n    model = BookInstance",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageDelete",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class LanguageDelete(PermissionRequiredMixin, DeleteView):\n    model = Language\n    success_url = reverse_lazy('languages')\n    permission_required = 'catalog.delete_language'\nclass BookInstanceCreate(PermissionRequiredMixin, CreateView):\n    model = BookInstance\n    fields = ['book', 'imprint', 'due_back', 'borrower', 'status']\n    permission_required = 'catalog.add_bookinstance'\nclass BookInstanceUpdate(PermissionRequiredMixin, UpdateView):\n    model = BookInstance",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceCreate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookInstanceCreate(PermissionRequiredMixin, CreateView):\n    model = BookInstance\n    fields = ['book', 'imprint', 'due_back', 'borrower', 'status']\n    permission_required = 'catalog.add_bookinstance'\nclass BookInstanceUpdate(PermissionRequiredMixin, UpdateView):\n    model = BookInstance\n    # fields = \"__all__\"\n    fields = ['imprint', 'due_back', 'borrower', 'status']\n    permission_required = 'catalog.change_bookinstance'\nclass BookInstanceDelete(PermissionRequiredMixin, DeleteView):",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceUpdate",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookInstanceUpdate(PermissionRequiredMixin, UpdateView):\n    model = BookInstance\n    # fields = \"__all__\"\n    fields = ['imprint', 'due_back', 'borrower', 'status']\n    permission_required = 'catalog.change_bookinstance'\nclass BookInstanceDelete(PermissionRequiredMixin, DeleteView):\n    model = BookInstance\n    success_url = reverse_lazy('bookinstances')\n    permission_required = 'catalog.delete_bookinstance'",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookInstanceDelete",
+        "kind": 6,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "class BookInstanceDelete(PermissionRequiredMixin, DeleteView):\n    model = BookInstance\n    success_url = reverse_lazy('bookinstances')\n    permission_required = 'catalog.delete_bookinstance'",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "def index(request):\n    \"\"\"View function for home page of site.\"\"\"\n    # Generate counts of some of the main objects\n    num_books = Book.objects.all().count()\n    num_instances = BookInstance.objects.all().count()\n    # Available copies of books\n    num_instances_available = BookInstance.objects.filter(\n        status__exact='a').count()\n    num_authors = Author.objects.count()  # The 'all()' is implied by default.\n    # Number of visits to this view, as counted in the session variable.",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "renew_book_librarian",
+        "kind": 2,
+        "importPath": "django-locallibrary-tutorial-main.catalog.views",
+        "description": "django-locallibrary-tutorial-main.catalog.views",
+        "peekOfCode": "def renew_book_librarian(request, pk):\n    \"\"\"View function for renewing a specific BookInstance by librarian.\"\"\"\n    book_instance = get_object_or_404(BookInstance, pk=pk)\n    # If this is a POST request then process the Form data\n    if request.method == 'POST':\n        # Create a form instance and populate it with data from the request (binding):\n        form = RenewBookForm(request.POST)\n        # Check if the form is valid:\n        if form.is_valid():\n            # process the data in form.cleaned_data as required (here we just write it to the model due_back field)",
+        "detail": "django-locallibrary-tutorial-main.catalog.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.asgi",
+        "description": "django-locallibrary-tutorial-main.locallibrary.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Add support for env variables from file if defined\nfrom dotenv import load_dotenv\nimport os\nenv_path = load_dotenv(os.path.join(BASE_DIR, '.env'))\nload_dotenv(env_path)\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-&psk#na5l=p3q8_a+-$4w1f^lt3lx1c@d*p4x$ymm_rn7pwb87'",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "env_path",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "env_path = load_dotenv(os.path.join(BASE_DIR, '.env'))\nload_dotenv(env_path)\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-&psk#na5l=p3q8_a+-$4w1f^lt3lx1c@d*p4x$ymm_rn7pwb87'\nSECRET_KEY = os.environ.get(\n    'DJANGO_SECRET_KEY', 'django-insecure-&psk#na5l=p3q8_a+-$4w1f^lt3lx1c@d*p4x$ymm_rn7pwb87')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "SECRET_KEY = os.environ.get(\n    'DJANGO_SECRET_KEY', 'django-insecure-&psk#na5l=p3q8_a+-$4w1f^lt3lx1c@d*p4x$ymm_rn7pwb87')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\n# DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'\n# Set hosts to allow any app on Railway and the local testing URL\nALLOWED_HOSTS = ['.vercel.app', '127.0.0.1']\n# Set CSRF trusted origins to allow any app on Railway and the local testing URL\nCSRF_TRUSTED_ORIGINS = ['https://*.railway.app',\n                        'https://*.pythonanywhere.com']",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "DEBUG = True\n# DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'\n# Set hosts to allow any app on Railway and the local testing URL\nALLOWED_HOSTS = ['.vercel.app', '127.0.0.1']\n# Set CSRF trusted origins to allow any app on Railway and the local testing URL\nCSRF_TRUSTED_ORIGINS = ['https://*.railway.app',\n                        'https://*.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['.vercel.app', '127.0.0.1']\n# Set CSRF trusted origins to allow any app on Railway and the local testing URL\nCSRF_TRUSTED_ORIGINS = ['https://*.railway.app',\n                        'https://*.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = ['https://*.railway.app',\n                        'https://*.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # Add our new application\n    'catalog.apps.CatalogConfig',  # This object was created for us in /catalog/apps.py\n]",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "ROOT_URLCONF = 'locallibrary.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'locallibrary.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Redirect to home URL after login (Default redirects to /accounts/profile/)\nLOGIN_REDIRECT_URL = '/'\n# Add to test email:\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Redirect to home URL after login (Default redirects to /accounts/profile/)\nLOGIN_REDIRECT_URL = '/'\n# Add to test email:\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url\nif 'DATABASE_URL' in os.environ:",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Redirect to home URL after login (Default redirects to /accounts/profile/)\nLOGIN_REDIRECT_URL = '/'\n# Add to test email:\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url\nif 'DATABASE_URL' in os.environ:\n    DATABASES['default'] = dj_database_url.config(",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "USE_TZ = True\n# Redirect to home URL after login (Default redirects to /accounts/profile/)\nLOGIN_REDIRECT_URL = '/'\n# Add to test email:\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url\nif 'DATABASE_URL' in os.environ:\n    DATABASES['default'] = dj_database_url.config(\n        conn_max_age=500,",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\n# Add to test email:\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url\nif 'DATABASE_URL' in os.environ:\n    DATABASES['default'] = dj_database_url.config(\n        conn_max_age=500,\n        conn_health_checks=True,\n    )",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Update database configuration from $DATABASE_URL environment variable (if defined)\nimport dj_database_url\nif 'DATABASE_URL' in os.environ:\n    DATABASES['default'] = dj_database_url.config(\n        conn_max_age=500,\n        conn_health_checks=True,\n    )\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\n# The URL to use when referring to static files (where they will be served from)\nSTATIC_URL = '/static/'\n# Static file serving.\n# https://whitenoise.readthedocs.io/en/stable/django.html#add-compression-and-caching-support\nSTORAGES = {\n    # ...\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Static file serving.\n# https://whitenoise.readthedocs.io/en/stable/django.html#add-compression-and-caching-support\nSTORAGES = {\n    # ...\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\n# Default primary key field type",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STORAGES",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "STORAGES = {\n    # ...\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "description": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.urls",
+        "description": "django-locallibrary-tutorial-main.locallibrary.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]\nurlpatterns += [\n    path('catalog/', include('catalog.urls')),\n]\n# Use static() to add url mapping to serve static files during development (only)\nfrom django.conf import settings\nfrom django.conf.urls.static import static\nurlpatterns+= static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "description": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "peekOfCode": "application = get_wsgi_application()\n# Para despliegue en Vercel\napp = application",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "description": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "peekOfCode": "app = application",
+        "detail": "django-locallibrary-tutorial-main.locallibrary.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "django-locallibrary-tutorial-main.manage",
+        "description": "django-locallibrary-tutorial-main.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'locallibrary.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "django-locallibrary-tutorial-main.manage",
+        "documentation": {}
+    }
+]
